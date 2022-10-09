@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '0a520dfe94c844379ec58d1eef658149',
+  rootNotionPageId: '4057e2d245834ed9b424bb4eed5707f6',
   
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '萤火',
-  domain: 'https://www.notion.so/Blog-0a520dfe94c844379ec58d1eef658149',
+  domain: 'https://cat-move-b38.notion.site/Blog-4057e2d245834ed9b424bb4eed5707f6',
   author: 'Jayren Chen',
 
   // open graph metadata (optional)
