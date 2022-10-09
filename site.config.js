@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '萤火',
-  domain: 'https://cat-move-b38.notion.site/Blog-4057e2d245834ed9b424bb4eed5707f6',
+  domain: 'https://www.notion.so/Blog-4057e2d245834ed9b424bb4eed5707f6',
   author: 'Jayren Chen',
 
   // open graph metadata (optional)
